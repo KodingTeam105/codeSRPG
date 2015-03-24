@@ -1,4 +1,4 @@
-# codeSRPG
+# codeSRPG.
 Skeleton for an university project.
 A small project for the KodingTeam group.
 Developpement of a game SRDGlike.
